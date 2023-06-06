@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_pigstep",
+    "name": "hunter_mad",
+    "description": "hunter is mad fr",
+    "creativeTab": {
+      "value": "CUSTOM:Nie"
+    },
+    "music": {
+      "value": "CUSTOM:hunter"
+    },
+    "specialInfo": [
+      "nie"
+    ],
+    "hasGlow": false
+  }
+}

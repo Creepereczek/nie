@@ -15,6 +15,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "nietykalnosc"
+    },
+    {
+      "name": "Hunter",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hunter"
     }
   ],
   "variable_elements": [],
@@ -31,7 +39,9 @@
   "language_map": {
     "en_us": {
       "enchantment.nie.nietykalnosc": "Nietykalnosc",
+      "item.nie.hunter": "hunter_mad",
       "subtitles.hunter": "hunter",
+      "item.nie.hunter.desc": "hunter is mad fr",
       "itemGroup.tabnie": "nie"
     }
   },

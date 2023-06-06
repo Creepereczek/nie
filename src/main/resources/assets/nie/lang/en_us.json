@@ -1,5 +1,7 @@
 {
   "enchantment.nie.nietykalnosc": "Nietykalnosc",
+  "item.nie.hunter": "hunter_mad",
   "subtitles.hunter": "hunter",
+  "item.nie.hunter.desc": "hunter is mad fr",
   "itemGroup.tabnie": "nie"
 }
