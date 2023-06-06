@@ -8,5 +8,15 @@
         "stream": true
       }
     ]
+  },
+  "hunter": {
+    "category": "master",
+    "subtitle": "subtitles.hunter",
+    "sounds": [
+      {
+        "name": "nie:sequence-01",
+        "stream": false
+      }
+    ]
   }
 }

@@ -15,6 +15,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ussr_athen"
+    },
+    {
+      "name": "Hunter",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hunter"
+    },
+    {
+      "name": "Nietykalnosc",
+      "type": "enchantment",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nietykalnosc"
     }
   ],
   "variable_elements": [],
@@ -26,13 +42,20 @@
       ],
       "category": "music",
       "subtitle": "USSR Athen"
+    },
+    {
+      "name": "hunter",
+      "files": [
+        "sequence-01"
+      ],
+      "category": "master",
+      "subtitle": "hunter"
     }
   ],
   "language_map": {
     "en_us": {
-      "item.nie.ussr_athen": "USSR Athen",
+      "subtitles.hunter": "hunter",
       "itemGroup.tabnie": "nie",
-      "item.nie.ussr_athen.desc": "USSR Athen",
       "subtitles.ussr_athen": "USSR Athen"
     }
   },

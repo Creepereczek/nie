@@ -47,6 +47,7 @@ public class NieModElements {
 
 	public NieModElements() {
 		sounds.put(new ResourceLocation("nie", "ussr_athen"), new net.minecraft.util.SoundEvent(new ResourceLocation("nie", "ussr_athen")));
+		sounds.put(new ResourceLocation("nie", "hunter"), new net.minecraft.util.SoundEvent(new ResourceLocation("nie", "hunter")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("nie").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();
