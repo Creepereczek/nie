@@ -3,8 +3,8 @@
   "_type": "musicdisc",
   "definition": {
     "texture": "music_disc_wait",
-    "name": "USSR Athen",
-    "description": "USSR Athen",
+    "name": "USSR Athem",
+    "description": "USSR Athem",
     "creativeTab": {
       "value": "CUSTOM:Nie"
     },

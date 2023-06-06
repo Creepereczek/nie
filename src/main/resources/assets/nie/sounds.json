@@ -1,14 +1,4 @@
 {
-  "ussr_athen": {
-    "category": "music",
-    "subtitle": "subtitles.ussr_athen",
-    "sounds": [
-      {
-        "name": "nie:hymn-zsrr-polska-wymowa-_transkrypcja_",
-        "stream": true
-      }
-    ]
-  },
   "hunter": {
     "category": "master",
     "subtitle": "subtitles.hunter",
@@ -16,6 +6,16 @@
       {
         "name": "nie:sequence-01",
         "stream": false
+      }
+    ]
+  },
+  "ussr_athem": {
+    "category": "music",
+    "subtitle": "subtitles.ussr_athem",
+    "sounds": [
+      {
+        "name": "nie:hymn-zsrr-polska-wymowa-_transkrypcja_",
+        "stream": true
       }
     ]
   }

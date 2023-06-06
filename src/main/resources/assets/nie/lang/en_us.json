@@ -1,10 +1,11 @@
 {
   "enchantment.nie.nietykalnosc": "Nietykalnosc",
   "item.nie.hunter": "hunter_mad",
+  "item.nie.ussr_athem": "USSR Athem",
+  "item.nie.ussr_athem.desc": "USSR Athem",
   "subtitles.hunter": "hunter",
-  "item.nie.ussr_athen": "USSR Athen",
   "item.nie.hunter.desc": "hunter is mad fr",
   "itemGroup.tabnie": "nie",
-  "item.nie.ussr_athen.desc": "USSR Athen",
-  "subtitles.ussr_athen": "USSR Athen"
+  "subtitles.ussr_athen": "USSR Athen",
+  "subtitles.ussr_athem": "USSR Athem"
 }

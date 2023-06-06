@@ -12,12 +12,12 @@ import net.mcreator.nie.itemgroup.NieItemGroup;
 import net.mcreator.nie.NieModElements;
 
 @NieModElements.ModElement.Tag
-public class USSRAthenItem extends NieModElements.ModElement {
-	@ObjectHolder("nie:ussr_athen")
+public class USSRAthemItem extends NieModElements.ModElement {
+	@ObjectHolder("nie:ussr_athem")
 	public static final Item block = null;
 
-	public USSRAthenItem(NieModElements instance) {
-		super(instance, 2);
+	public USSRAthemItem(NieModElements instance) {
+		super(instance, 4);
 	}
 
 	@Override
@@ -29,7 +29,7 @@ public class USSRAthenItem extends NieModElements.ModElement {
 		public MusicDiscItemCustom() {
 			super(0, NieModElements.sounds.get(new ResourceLocation("nie:ussr_athen")),
 					new Item.Properties().group(NieItemGroup.tab).maxStackSize(1).rarity(Rarity.RARE));
-			setRegistryName("ussr_athen");
+			setRegistryName("ussr_athem");
 		}
 	}
 }

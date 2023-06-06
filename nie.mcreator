@@ -9,14 +9,6 @@
       "registry_name": "nie"
     },
     {
-      "name": "USSRAthen",
-      "type": "musicdisc",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ussr_athen"
-    },
-    {
       "name": "Hunter",
       "type": "musicdisc",
       "sortid": 3,
@@ -31,18 +23,18 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "nietykalnosc"
+    },
+    {
+      "name": "USSRAthem",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ussr_athem"
     }
   ],
   "variable_elements": [],
   "sound_elements": [
-    {
-      "name": "ussr_athen",
-      "files": [
-        "hymn-zsrr-polska-wymowa-_transkrypcja_"
-      ],
-      "category": "music",
-      "subtitle": "USSR Athen"
-    },
     {
       "name": "hunter",
       "files": [
@@ -50,18 +42,27 @@
       ],
       "category": "master",
       "subtitle": "hunter"
+    },
+    {
+      "name": "ussr_athem",
+      "files": [
+        "hymn-zsrr-polska-wymowa-_transkrypcja_"
+      ],
+      "category": "music",
+      "subtitle": "USSR Athem"
     }
   ],
   "language_map": {
     "en_us": {
       "enchantment.nie.nietykalnosc": "Nietykalnosc",
       "item.nie.hunter": "hunter_mad",
+      "item.nie.ussr_athem": "USSR Athem",
+      "item.nie.ussr_athem.desc": "USSR Athem",
       "subtitles.hunter": "hunter",
-      "item.nie.ussr_athen": "USSR Athen",
       "item.nie.hunter.desc": "hunter is mad fr",
       "itemGroup.tabnie": "nie",
-      "item.nie.ussr_athen.desc": "USSR Athen",
-      "subtitles.ussr_athen": "USSR Athen"
+      "subtitles.ussr_athen": "USSR Athen",
+      "subtitles.ussr_athem": "USSR Athem"
     }
   },
   "foldersRoot": {
