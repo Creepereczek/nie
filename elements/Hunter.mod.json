@@ -11,9 +11,7 @@
     "music": {
       "value": "CUSTOM:hunter"
     },
-    "specialInfo": [
-      "nie"
-    ],
+    "specialInfo": [],
     "hasGlow": false
   }
 }
