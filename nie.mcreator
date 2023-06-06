@@ -7,12 +7,31 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "nie"
+    },
+    {
+      "name": "Nietykalnosc",
+      "type": "enchantment",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nietykalnosc"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "hunter",
+      "files": [
+        "sequence-01"
+      ],
+      "category": "master",
+      "subtitle": "hunter"
+    }
+  ],
   "language_map": {
     "en_us": {
+      "enchantment.nie.nietykalnosc": "Nietykalnosc",
+      "subtitles.hunter": "hunter",
       "itemGroup.tabnie": "nie"
     }
   },

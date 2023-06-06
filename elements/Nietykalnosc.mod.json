@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Nietykalnosc",
+    "type": "ARMOR",
+    "rarity": "VERY_RARE",
+    "minLevel": 30,
+    "maxLevel": 100,
+    "damageModifier": 3,
+    "compatibleEnchantments": [],
+    "compatibleItems": [],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": false,
+    "canVillagerTrade": false
+  }
+}
