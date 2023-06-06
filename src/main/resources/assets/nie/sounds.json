@@ -1,0 +1,12 @@
+{
+  "ussr_athen": {
+    "category": "music",
+    "subtitle": "subtitles.ussr_athen",
+    "sounds": [
+      {
+        "name": "nie:hymn-zsrr-polska-wymowa-_transkrypcja_",
+        "stream": true
+      }
+    ]
+  }
+}

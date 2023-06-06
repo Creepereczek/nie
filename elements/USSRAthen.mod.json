@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "music_disc_wait",
+    "name": "USSR Athen",
+    "description": "USSR Athen",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:ussr_athen"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -7,13 +7,33 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "nie"
+    },
+    {
+      "name": "USSRAthen",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ussr_athen"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "ussr_athen",
+      "files": [
+        "hymn-zsrr-polska-wymowa-_transkrypcja_"
+      ],
+      "category": "music",
+      "subtitle": "USSR Athen"
+    }
+  ],
   "language_map": {
     "en_us": {
-      "itemGroup.tabnie": "nie"
+      "item.nie.ussr_athen": "USSR Athen",
+      "itemGroup.tabnie": "nie",
+      "item.nie.ussr_athen.desc": "USSR Athen",
+      "subtitles.ussr_athen": "USSR Athen"
     }
   },
   "foldersRoot": {
