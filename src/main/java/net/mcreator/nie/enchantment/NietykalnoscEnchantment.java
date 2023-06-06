@@ -1,9 +1,17 @@
 
 package net.mcreator.nie.enchantment;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.util.DamageSource;
+import net.minecraft.inventory.EquipmentSlotType;
+import net.minecraft.enchantment.EnchantmentType;
+import net.minecraft.enchantment.Enchantment;
+
+import net.mcreator.nie.NieModElements;
+
 @NieModElements.ModElement.Tag
 public class NietykalnoscEnchantment extends NieModElements.ModElement {
-
 	@ObjectHolder("nie:nietykalnosc")
 	public static final Enchantment enchantment = null;
 
@@ -17,7 +25,6 @@ public class NietykalnoscEnchantment extends NieModElements.ModElement {
 	}
 
 	public static class CustomEnchantment extends Enchantment {
-
 		public CustomEnchantment(EquipmentSlotType... slots) {
 			super(Enchantment.Rarity.VERY_RARE, EnchantmentType.ARMOR, slots);
 		}
@@ -61,7 +68,5 @@ public class NietykalnoscEnchantment extends NieModElements.ModElement {
 		public boolean canVillagerTrade() {
 			return false;
 		}
-
 	}
-
 }
