@@ -31,6 +31,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ussr_athem"
+    },
+    {
+      "name": "Revolutionist",
+      "type": "livingentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "revolutionist"
     }
   ],
   "variable_elements": [],
@@ -61,7 +69,9 @@
       "subtitles.hunter": "hunter",
       "item.nie.hunter.desc": "hunter is mad fr",
       "itemGroup.tabnie": "nie",
+      "item.nie.revolutionist_spawn_egg": "Revolutionist Spawn Egg",
       "subtitles.ussr_athen": "USSR Athen",
+      "entity.nie.revolutionist": "Revolutionist",
       "subtitles.ussr_athem": "USSR Athem"
     }
   },
